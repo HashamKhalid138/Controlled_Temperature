@@ -70,3 +70,5 @@ The architecture is divided into three layers:
 4. **Controller**: `SmartHomeController` acts as the controller, coordinating the system's operations based on user input.
 
 These GRASP principles ensure that the code is well-structured, modular, and easier to maintain or extend in the future.
+### How to run Code:
+Use netbeans, javac for running my code
